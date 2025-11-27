@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Birinchi saytim</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <div class="blabla">
+        <ul>
+            <li> Mening ismim: Muslihiddin </li>
+            <li> Familiyam: Abdumutaliyev </li>
+            <li> Maktabim: 20-umumiy o'rta ta'lim maktabi </li>
+            <li> Sinfim: 8-A sinf </li>
+        </ul>
+    </div>
+</body>
+</html>
